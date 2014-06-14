@@ -1,6 +1,6 @@
 # Nginx in Docker
 
-Sets up a container based on [walm/docker-base](https://github.com/walm/docker-base)
+Sets up a container based on [walm/base](https://github.com/walm/docker-base)
 
 ## Includes
 
